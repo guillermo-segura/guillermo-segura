@@ -1,6 +1,6 @@
 # Hi there, I'm Guillermo! 👋
 
-## About Me 🚀
+## About Me
 
 I'm a Full-Stack Engineer with a strong product mindset cultivated by engaging with users, analysing problems, and participating in every aspect of the software development life cycle.
 
@@ -8,6 +8,8 @@ I'm a Full-Stack Engineer with a strong product mindset cultivated by engaging w
 - 🔭 Working on: **Top Secret React Native Project 🤫**
 - 🌍 Languages: **[programming languages and human languages you speak]**
 - ⚡ Fun fact: **[a fun fact about yourself]**
+
+
 
 ## My Skills 🧠
 
@@ -26,6 +28,13 @@ I'm a Full-Stack Engineer with a strong product mindset cultivated by engaging w
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+## My WIP 🚧
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
