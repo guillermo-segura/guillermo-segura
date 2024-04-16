@@ -5,9 +5,9 @@
 I'm a Full-Stack Engineer with a strong product mindset cultivated by engaging with users, analysing problems, and participating in every aspect of the software development life cycle.
 
 - 🌱 Currently learning: **React Micro Front-End**
-- 🔭 Working on: **Top Secret React Native Project 🤫**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🤫 Working on: **Top Secret React Native Project**
+- 🌍 Languages: **English | Spanish**
+- ⚡ Fun fact: **My first job interview was at the circus**
 
 
 
