@@ -1,16 +1,5 @@
 # Hi there, I'm Guillermo! 👋
 
-## About Me
-
-I'm a Full-Stack Engineer with a strong product mindset cultivated by engaging with users, analysing problems, and participating in every aspect of the software development life cycle.
-
-- 🌱 Currently learning: **React Micro Front-End**
-- 🤫 Working on: **Personal project using React Native**
-- 🌍 Languages: **English | Spanish**
-- ⚡ Fun fact: **My first job interview was at the circus**🎪
-
-
-
 ## My Skills 🧠
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -28,13 +17,6 @@ I'm a Full-Stack Engineer with a strong product mindset cultivated by engaging w
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-## My WIP 🚧
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 
 ## Get in Touch 📬
